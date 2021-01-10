@@ -4,3 +4,5 @@ day #10 for #300dayscodechallenge
 
 from :
 https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
+<br> <br>
+still on progress, some errors
